@@ -1,6 +1,6 @@
 # nRF ZBOSS NCP
 
-This repository contains compiled ZBOSS NCP firmware images for Nordic Semiconductor with nRF52840 SoC, like the [nRF52840 Dongle](https://www.nordicsemi.com/Products/Development-hardware/nrf52840-dongle).
+This repository contains compiled ZBOSS NCP firmware images for Nordic Semiconductor with nRF52840 (nRF52 series) SoC, for use with example the [nRF52840 Dongle](https://www.nordicsemi.com/Products/Development-hardware/nrf52840-dongle), as well as nRF5340 (nRF53 series) SoC, for use with the [nRF5340-DK development kit](https://www.nordicsemi.com/Products/Development-hardware/nrf5340-dk).
 
 Compared to Nordic Semi's default NCP sample this image has been configured to use maximum memory.
 
