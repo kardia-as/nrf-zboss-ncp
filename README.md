@@ -9,7 +9,9 @@ This is a prebuilt hex image of Nordic Semi's NCP sample (a ZBOSS-based firmware
 You can flash the device with this firmware image using for example the programmer application from the [nRF Desktop application](https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for-desktop).
 
 References:
+* https://github.com/nrfconnect/ncs-zigbee/tree/main/samples/ncp
 * https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/protocols/zigbee/tools.html#ug-zigbee-tools-ncp-host
 * https://developer.nordicsemi.com/Zigbee/ncp_sdk_for_host/
 * https://developer.nordicsemi.com/nRF_Connect_SDK/doc/zboss/3.11.2.1/zboss_ncp_host_intro.html
 * https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/samples/zigbee/ncp/README.html#zigbee-ncp-sample
+* https://docs.nordicsemi.com/bundle/ncs-2.9.0/page/nrf/protocols/zigbee/architectures.html
